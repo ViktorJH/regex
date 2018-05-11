@@ -7,4 +7,12 @@ Regex Íslandi - Kennitölur og bankanúmer
 
 # Bankanúmer
 
-todo
+[0145][0134579]\d{2}
+
+Seðlabanki Íslands, Landsbankinn, Arion banki, Íslandsbanki, Kvika:
+
+(0001)|(0[1357]\d{2})
+
+# Kröfunúmer
+
+((0001)|(0[1357]\d{2}))-?66-?\d{6}
