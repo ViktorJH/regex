@@ -28,4 +28,5 @@ Seðlabanki Íslands, Landsbankinn, Arion banki, Íslandsbanki, Kvika:
 # Cheat sheet
 
 http://emailregex.com/regular-expressions-cheat-sheet/
+
 http://emailregex.com/regex-visual-tester
