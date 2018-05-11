@@ -24,3 +24,8 @@ Seðlabanki Íslands, Landsbankinn, Arion banki, Íslandsbanki, Kvika:
 # Dagsetning kröfu
 
 [12]\d{3}-?[01][0-9]-?[0123][1-9]
+
+# Cheat sheet
+
+http://emailregex.com/regular-expressions-cheat-sheet/
+http://emailregex.com/regex-visual-tester
