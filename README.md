@@ -3,9 +3,11 @@
 Æfing í reglulegum segðum, til gamans gert.
 Regex Íslandi - Kennitölur og bankanúmer.
 
-# Kennitölur
+# Kennitala
 
 [0-7]\d[01]\d{3}[-]*\d{3}[09]
+
+![kennitala regex](https://github.com/ViktorJH/regex/blob/master/images/kennitala.png)
 
 # Bankanúmer
 
