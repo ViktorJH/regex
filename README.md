@@ -1,5 +1,6 @@
 # regex
-Regex Íslandi - Kennitölur og bankanúmer
+Til gamans gert.
+Regex Íslandi - Kennitölur og bankanúmer.
 
 # Kennitölur
 
@@ -16,3 +17,7 @@ Seðlabanki Íslands, Landsbankinn, Arion banki, Íslandsbanki, Kvika:
 # Kröfunúmer
 
 ((0001)|(0[1357]\d{2}))-?66-?\d{6}
+
+# Dagsetning kröfu
+
+[12]\d{3}-?[01][0-9]-?[0123][1-9]
