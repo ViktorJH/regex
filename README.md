@@ -1,5 +1,6 @@
 # regex
-Til gamans gert.
+
+Æfing í reglulegum segðum, til gamans gert.
 Regex Íslandi - Kennitölur og bankanúmer.
 
 # Kennitölur
